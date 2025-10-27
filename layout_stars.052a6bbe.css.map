@@ -1,0 +1,1 @@
+{"mappings":"AEEA","sources":["layout_stars.052a6bbe.css","sK_0_W","src/style.css"],"sourcesContent":["body {\n  margin: 0;\n}\n/*# sourceMappingURL=layout_stars.052a6bbe.css.map */\n",null,"@import 'blocks/stars/stars.css';\n\nbody {\n  margin: 0;\n}\n"],"names":[],"version":3,"file":"layout_stars.052a6bbe.css.map"}
